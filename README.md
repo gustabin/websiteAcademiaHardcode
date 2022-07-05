@@ -41,7 +41,7 @@ Email
 🎧 Aprende a crear un website para vender cursos y/o bienes digitales, es decir que no involucren costos de envio, y los puedas enviar a través de un mensaje de email con un link de descarga o en un archivo adjunto.
 Realizaremos un proyecto desde cero, partiendo de una plantilla responsive gratuita que utiliza la librería bootstrap.
 
-El contenido del proyecto sera:
+El contenido del proyecto será:
 
 ✔ Organizar el contenido del sitio.
 
