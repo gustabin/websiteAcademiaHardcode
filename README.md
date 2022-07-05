@@ -43,20 +43,35 @@ Realizaremos un proyecto desde cero, partiendo de una plantilla responsive gratu
 
 El contenido del proyecto sera:
 ✔ Organizar el contenido del sitio.
+
 ✔ Preparar las Imagenes.
+
 ✔ Definir el Body.
+
 ✔ Establecer los cursos.
+
 ✔ Crear los testimonios.
+
 ✔ Configurar el formulario de contacto.
+
 ✔ Crear las páginas de terminos y condiciones, política de privacidad.
+
 ✔ Trabajar con anclas.
+
 ✔ Customizar el Navbar.
+
 ✔ Crear botones de pago en Paypal.
+
 ✔ Plasmar el detalle de los cursos.
+
 ✔ Funciones para ocultar y mostrar el detalle de los cursos.
+
 ✔ Desplegar el contenido de los cursos.
+
 ✔ Enviar por email los datos del formulario.
+
 ✔ Realizar el deploy en Github.
+
 
 Este material ha sido realizado pensando en todas aquellas personas que deseen crear un sitio web pero quizas no poseen ningún conocimiento previo de la programación web. Se utiliza en todo momento un lenguaje fácil de entender y cada tema se explica paso a paso de forma 100% práctica.
 
