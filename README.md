@@ -42,6 +42,7 @@ Email
 Realizaremos un proyecto desde cero, partiendo de una plantilla responsive gratuita que utiliza la librería bootstrap.
 
 El contenido del proyecto sera:
+
 ✔ Organizar el contenido del sitio.
 
 ✔ Preparar las Imagenes.
